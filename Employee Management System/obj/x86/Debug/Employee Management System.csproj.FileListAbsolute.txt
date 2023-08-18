@@ -1,0 +1,13 @@
+c:\users\el mahdi pc\documents\visual studio 2010\Projects\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe
+c:\users\el mahdi pc\documents\visual studio 2010\Projects\Employee Management System\Employee Management System\bin\Debug\Employee Management System.pdb
+c:\users\el mahdi pc\documents\visual studio 2010\Projects\Employee Management System\Employee Management System\obj\x86\Debug\Employee_Management_System.Form1.resources
+c:\users\el mahdi pc\documents\visual studio 2010\Projects\Employee Management System\Employee Management System\obj\x86\Debug\Employee_Management_System.Home.resources
+c:\users\el mahdi pc\documents\visual studio 2010\Projects\Employee Management System\Employee Management System\obj\x86\Debug\Employee_Management_System.Login.resources
+c:\users\el mahdi pc\documents\visual studio 2010\Projects\Employee Management System\Employee Management System\obj\x86\Debug\Employee_Management_System.Properties.Resources.resources
+c:\users\el mahdi pc\documents\visual studio 2010\Projects\Employee Management System\Employee Management System\obj\x86\Debug\Employee Management System.csproj.GenerateResource.Cache
+c:\users\el mahdi pc\documents\visual studio 2010\Projects\Employee Management System\Employee Management System\obj\x86\Debug\Employee Management System.exe
+c:\users\el mahdi pc\documents\visual studio 2010\Projects\Employee Management System\Employee Management System\obj\x86\Debug\Employee Management System.pdb
+c:\users\el mahdi pc\documents\visual studio 2010\Projects\Employee Management System\Employee Management System\obj\x86\Debug\Employee_Management_System.Employee.resources
+C:\Users\el mahdi pc\Documents\Visual Studio 2010\Projects\Employee Management System\Employee Management System\obj\x86\Debug\Employee Management System.csprojResolveAssemblyReference.cache
+C:\Users\el mahdi pc\Documents\Visual Studio 2010\Projects\Employee Management System\Employee Management System\obj\x86\Debug\Employee_Management_System.View_Form.resources
+C:\Users\el mahdi pc\Documents\Visual Studio 2010\Projects\Employee Management System\Employee Management System\obj\x86\Debug\Employee_Management_System.Salary_Form.resources
